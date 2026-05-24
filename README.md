@@ -1,5 +1,7 @@
 # nhom9_KHDL
 
+Link youtube: https://youtu.be/6r4Gh6IKHes
+
 # Phân tích biến động giá xăng dầu tại Việt Nam giai đoạn 2020–2025
 
 ## Giới thiệu đề tài
